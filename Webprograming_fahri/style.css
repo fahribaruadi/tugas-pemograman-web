@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: lightgray;
+}
+
+header {
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  color: white;
+}
+
+nav a {
+  color: white;
+}
